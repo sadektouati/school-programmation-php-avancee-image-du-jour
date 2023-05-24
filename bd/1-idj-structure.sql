@@ -20,6 +20,7 @@ SET time_zone = "+00:00";
 --
 -- Database: `idj`
 --
+drop Database idj;
 CREATE DATABASE IF NOT EXISTS `idj` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
 USE `idj`;
 
