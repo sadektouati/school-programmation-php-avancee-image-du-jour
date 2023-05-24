@@ -1,7 +1,7 @@
 <?php
 class AccesBd 
 {
-    private PDO $pdo; // Objet de connexion PDO
+    private PDO $pdo; // Objet de connexion PDO classique
     private PDOStatement $rp; // Objet de requête paramétrée PDO
 
     /**
